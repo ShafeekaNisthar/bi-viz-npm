@@ -1,0 +1,27 @@
+.App {
+  margin-top: 0;
+  text-align: center;
+  color:aliceblue;
+  /* background:#2C2F33; */
+  background:linear-gradient(90deg, #383838 0%, #001F3F 100%);
+  /* width: 1525px;
+  height: 725px; */
+}
+
+.body-content{
+  display: flex;
+  flex-direction: column;
+  font-family: IBM Plex Sans;
+}
+
+.filters{
+  /* background-color: #001F3F; */
+  height: fit-content;
+  /* width: fit-content; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  margin: 2rem 0;
+}
+
